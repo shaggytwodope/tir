@@ -6,3 +6,4 @@ __MACOSX
 *.tar.gz
 *.src.tar.gz
 src/
+pkg/
