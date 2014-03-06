@@ -1,3 +1,4 @@
+# Maintainer: John "ShaggyTwoDope" Jenkins <twodopeshaggy at gmail dot com>
 pkgname=tir
 pkgver=0.2.2
 pkgrel=1

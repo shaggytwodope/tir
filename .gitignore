@@ -2,3 +2,7 @@
 *~
 *.swp
 __MACOSX
+*.pkg.tar.xz
+*.tar.gz
+*.src.tar.gz
+*/src
