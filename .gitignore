@@ -5,4 +5,4 @@ __MACOSX
 *.pkg.tar.xz
 *.tar.gz
 *.src.tar.gz
-*/src
+src\
