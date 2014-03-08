@@ -7,3 +7,4 @@ __MACOSX
 *.src.tar.gz
 src/
 pkg/
+tir
